@@ -1,15 +1,15 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Hack for Good
+subtitle: Hackathon
 layout: default
 modal-id: 4
 date: 2014-07-15
 img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+thumbnail: hackforgood.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Microsoft Philanthropies connects our teams with projects and experienced Microsoft employees who help provide guidance. We were invited to the 2018 annual Microsoft Hackathon to work on our projects and with their support we hope to tackle many more important issues. Their encouragement is what inspired us to host our own hackathon.
 
 ---
