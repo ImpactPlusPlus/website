@@ -1,3 +1,9 @@
+Impact++ Website
+================
+
+This project was created for my club, Impact++. I used the jekyll template mentioned below  
+to create everything as an exercise in HTML and CSS.
+
 Agency Jekyll theme
 ====================
 
@@ -5,26 +11,5 @@ Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/templ
 
 # How to use
 
-###Portfolio 
+cd into your repo and enter `jekyll serve` to host it locally.
 
-Portfolio projects are in '/_posts'
-
-Images are in '/img/portfolio'
-
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
-
-
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)
