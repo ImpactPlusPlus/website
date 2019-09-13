@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: We have a team of 5 UW students working with Microsoft employees to build a utility web application for the King County Air Support Unit where they can easily log and access data about their flights, helicopter maintenance, and personnel training. The Air Support Unit is responsible for all aerial police activities in King County including search and rescue, patrol, and car chases. The sheriff and his deputies currently use paper binders and whiteboards to record this information which is very inefficient and makes it difficult to generate the statistics they need to acquire funding and improve operational efficiency. Our team is working on making their jobs easier so that they can focus on protecting King County rather than laborious administrative tasks.
 
 ---

@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: The Grace Children’s Foundation is working on connecting children in need of medical aid with doctors who are willing to provide pro bono services. Our team is working with Microsoft Employees to build an online tool to connect aid workers helping these children with available doctors. The tool also provides information on foundations and funds willing to finance this medical aid.
 
 ---

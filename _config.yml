@@ -13,8 +13,6 @@ people:
   pic: shourya
   position: Founder/President
   social:
-    - title: email
-      url: #
     - title: linkedin
       url: https://www.linkedin.com/in/shourjain/
 
@@ -22,8 +20,6 @@ people:
   pic: samantha
   position: Operations Manager
   social:
-    - title: twitter
-      url: #
     - title: linkedin
       url: https://www.linkedin.com/in/samantha-ballata-2804b6168/
 
@@ -31,8 +27,6 @@ people:
   pic: ofek
   position: Project Lead
   social:
-    - title: twitter
-      url: #
     - title: linkedin
       url: https://www.linkedin.com/in/ofek-inbar/
 
@@ -40,8 +34,6 @@ people:
   pic: jenny
   position: Officer
   social:
-  - title: twitter
-    url: #
   - title: linkedin
     url: https://www.linkedin.com/in/yeonjinc/
 
@@ -49,8 +41,6 @@ people:
   pic: deepanshu
   position: Student Lead
   social:
-  - title: twitter
-    url: #
   - title: linkedin
     url: https://www.linkedin.com/in/guptad2/
 
@@ -58,8 +48,6 @@ people:
   pic: frankie
   position: Lead Developer
   social:
-  - title: twitter
-    url: #
   - title: linkedin
     url: https://www.linkedin.com/in/frankie-o/
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
