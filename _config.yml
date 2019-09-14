@@ -1,10 +1,10 @@
 url: http://localhost:4000/impact-website/
-baseurl: /agency-jekyll-theme/
+baseurl: /impact++.org/
 
 # Site settings
 title: impact++
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+email: udubimpact@gmail.com
+description: "Welcome to the official website of the UW Impact++. Click here if you want to increment your impact!"
 
 
 # Team names, titles and social links
@@ -57,8 +57,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 185 E Stevens Way NE
+  - line: Seattle, WA 98195
 
 # Build settings
 markdown: kramdown
