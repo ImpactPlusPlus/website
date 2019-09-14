@@ -289,6 +289,8 @@ header {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: scroll;  /* alternative is fixed */
+    background-position: top;
     background-size: contain;
     -o-background-size: cover;
 
