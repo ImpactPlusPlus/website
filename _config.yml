@@ -1,5 +1,5 @@
-url: http://localhost:4000/impact-website/
-baseurl: /impact-website/
+url: ""
+baseurl: "impact-website"
 
 # Site settings
 title: impact++
