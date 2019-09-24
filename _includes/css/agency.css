@@ -316,8 +316,7 @@ header .intro-text .intro-heading {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     color: black;
-    font-size: 50px;
-    font-weight: 700;
+    font-size: 30px;
     line-height: 50px;
 }
 
@@ -340,7 +339,6 @@ header .intro-text .intro-heading {
         text-transform: uppercase;
         font-family: {{ site.data.template.font.primary }};
         font-size: 75px;
-        font-weight: 700;
         line-height: 75px;
     }
 }
@@ -360,7 +358,6 @@ section h3.section-subheading {
     text-transform: none;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 16px;
-    font-style: italic;
     font-weight: 400;
 }
 
