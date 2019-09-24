@@ -7,5 +7,5 @@ color:
 
 # Font Families
 font:
-  primary: 'Sans Serif'
-  secondary: 'Sans Serif'
+  primary: '"Lucida Sans Unicode", "Lucida Grande", sans-serif'
+  secondary: '"Lucida Sans Unicode", "Lucida Grande", sans-serif'
