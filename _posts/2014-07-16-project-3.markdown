@@ -10,6 +10,7 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Farestart is a Seattle-based nonprofit which helps homeless people get jobs. 
+description: Our team of 6 student developers continued the work on a reporting tool built by Amazon and Microsoft employees at the 2017 Democracy Lab hackathon. Stephen Chan, a full time Amazon engineer who volunteered for the FareStart project at the hackathon was our mentor. He attended weekly meetings at the UW campus and was crucial in speeding up the project's progress. The aim of the project was to facilitate data analysis for the nonprofit (Farestart). Check out our work below.
+link: https://github.com/FarestartTechVolunteers/FlashReportGenerator
 
 ---
