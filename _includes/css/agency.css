@@ -286,7 +286,6 @@ header {
     background-repeat: no-repeat;
     -webkit-background-size: cover;
     background-position: top;
-    background-size: contain;
     -o-background-size: cover;
 }
 
